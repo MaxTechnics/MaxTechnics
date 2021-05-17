@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Maxim. I do coding stuff. Mostly JavaScript, but also some other stuffs.  
+Also I drink LOTS of coffee...  
+This is where most of my code lives. Some pretty, some a good example of do as I say, not as I do.
+
+Thanks for checking in!
+
+##### *(If you like what I do, consider helping funding my coffee addiction*)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A33KOGW)
+
+###### Oxygen amirite?
+
 <!--
 **MaxTechnics/MaxTechnics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
