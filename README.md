@@ -9,6 +9,9 @@ Thanks for checking in!
 ##### *(If you like what I do, consider helping funding my coffee addiction*)  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A33KOGW)
 
+#### My stat thing
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxTechnics&show_icons=true&locale=en" alt="MaxTechnics" /></p>
+
 ###### Oxygen amirite?
 
 <!--
