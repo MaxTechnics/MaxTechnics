@@ -10,10 +10,7 @@ Thanks for checking in!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A33KOGW)
 
 #### My stat thing
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxTechnics&show_icons=true&locale=en" alt="MaxTechnics" /></p>
-
-#### More stats? Idk looked fun, probably removing
-![Metrics](https://metrics.lecoq.io/maxtechnics?template=terminal&isocalendar=1&languages=1&introduction=1&gists=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FBrussels)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxTechnics&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true" alt="MaxTechnics" /></p>
 
 ###### Oxygen amirite?
 
